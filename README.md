@@ -1,5 +1,3 @@
-Survive the asteroid bay
+Avoid the stars
 
-Use WASD to move
-
-Hold mouse button to shoot
+Use W & S to move
